@@ -5,7 +5,7 @@ ScanYourBill is a cutting-edge mobile money management application designed to s
 
 ## APK Link
 You can download the latest version of the app from the following link:
-[Download APK](link-to-your-apk)
+[Download APK](https://drive.google.com/file/d/1Wfotf7ZtPpQl7bOtw7IbGuYw3fQmmdj0/view?usp=sharing)
 
 ## Tech Used
 This section outlines the technologies and tools used to develop the app:
